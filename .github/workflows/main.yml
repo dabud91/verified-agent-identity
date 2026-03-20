@@ -8,7 +8,7 @@ on:
         required: true
         default: 'dabud'
       agent_description:
-        description: 'dabud'
+        description: 'flo'
         required: true
         default: 'dabud AI Agent'
 
